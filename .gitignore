@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# 환경 변수 / 시크릿
+.env
+.env.*
+*.pem
+*.key
+*.crt
+credentials.json
+secrets/
+
+# 모델 파일 (용량 큼)
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+models/
+
+# 데이터셋 (용량 큼)
+*.csv
+*.parquet
+*.h5
+data/raw/
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# Claude Code 로컬 설정
+.claude/
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
