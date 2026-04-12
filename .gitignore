@@ -38,6 +38,9 @@ data/raw/
 .claude/
 CLAUDE.md
 
+# 모니터링 로그 (로컬 생성 파일)
+monitoring/logs/
+
 # OS
 .DS_Store
 Thumbs.db
