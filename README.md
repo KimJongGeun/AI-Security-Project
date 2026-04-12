@@ -378,5 +378,5 @@ Claude.ai는 Hook이 적용되지 않기 때문에 네트워크 레벨에서 잡
 ## 참고 자료
 
 - [Claude Code Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks) - Hook 이벤트, 설정 방법, 핸들러 타입
-- [Claude Code Managed Settings](https://docs.anthropic.com/en/docs/claude-code/managed-settings) - MDM을 통한 전사 설정 배포
+- [Claude Code Managed Settings](https://code.claude.com/docs/en/settings) - MDM을 통한 전사 설정 배포
 - [Elastic Stack](https://www.elastic.co/elastic-stack) - ELK 참고 구현에 사용
